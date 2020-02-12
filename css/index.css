@@ -1,0 +1,40 @@
+/* html start */
+body{
+    background-color: #272823;
+}
+
+.container {
+    padding-top: 50px;
+}
+
+/* html end */
+
+
+/* 1st section start */
+#company-name {
+    font-family: 'Pacifico', cursive;
+    color: #68d6ef !important;
+    font: outline;
+    font-size: 48px;
+}
+
+#birthday-emoji {
+    color: #d2265f;
+    font-size: 40px;
+}
+/* 1st section end */
+
+/* 2nd section end */
+#facts-figures {
+    font-family: 'Pacifico', cursive;
+    color: #68d6ef !important;
+    font: outline;
+    font-size: 72px;
+}
+#clear-50 {
+    padding-left: 0;
+    padding-right: 0;
+    z-index: -10;
+}
+
+/* 2nd section end */
